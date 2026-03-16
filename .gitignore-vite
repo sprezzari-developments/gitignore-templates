@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+.cache/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Env
+.env
+.env.*
+*.env
+
+# Data
+data/
+storage/
+
+# Config
+config.yml
+config.yaml
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+.cursor/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
