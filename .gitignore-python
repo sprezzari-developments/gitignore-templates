@@ -1,0 +1,61 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Build
+dist/
+build/
+.eggs/
+*.egg-info/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.*
+*.env
+venv/
+env/
+.venv/
+ENV/
+
+# Data
+data/
+storage/
+instance/
+*.sqlite3
+*.db
+
+# Config
+config.yml
+config.yaml
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+.cursor/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Lint
+.mypy_cache/
+.dmypy.json
+dmypy.json

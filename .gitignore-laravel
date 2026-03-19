@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Build
+dist/
+build/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.*
+*.env
+
+# Data
+data/
+storage/
+storage/*.key
+
+# Config
+config.yml
+config.yaml
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Laravel
+/public/storage
+/public/hot
+/storage/*.key
+/bootstrap/cache/*.php
+
+# Composer
+composer.lock

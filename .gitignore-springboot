@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Build
+target/
+build/
+out/
+.cache/
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+.env.*
+*.env
+
+# Data
+data/
+storage/
+
+# Config
+application-local.yml
+application-local.yaml
+
+# IDEs
+.vscode/
+.idea/
+.vs/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.swp
+*.swo
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven / Gradle
+.mvn/
+.gradle/
